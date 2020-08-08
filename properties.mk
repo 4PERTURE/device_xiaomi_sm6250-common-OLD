@@ -112,6 +112,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.camera.preview.ubwc=0 \
     vendor.video.disable.ubwc=1 \
     vidc.enc.dcvs.extra-buff-count=2
+    vendor.camera.aux.packagelist=com.android.camera
 
 # CNE
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
