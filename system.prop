@@ -64,6 +64,11 @@ vendor.mm.enable.qcom_parser=131071983
 # Netflix
 ro.netflix.bsp_rev=Q6250-19132-1
 
+# ParanoidDoze
+ro.sensor.proximity=true
+ro.sensor.pickup=xiaomi.sensor.pickup
+ro.sensor.pocket=xiaomi.sensor.pocket
+
 # Perf
 ro.vendor.qti.sys.fw.bservice_enable=true
 
