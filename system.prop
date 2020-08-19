@@ -16,6 +16,9 @@ persist.vendor.btstack.enable.twsplus=true
 persist.vendor.service.bdroid.soc.alwayson=true
 ro.bluetooth.library_name=libbluetooth_qti.so
 
+# Camera
+vendor.camera.aux.packagelist=com.android.camera,com.miui.camera
+
 # CNE
 persist.vendor.cne.feature=1
 
